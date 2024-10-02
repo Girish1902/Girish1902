@@ -1,4 +1,4 @@
-![logo](https://github.com/Girish1902/Girish1902/blob/main/Screenshot%202024-02-26%20151902.png)
+![logo](https://www.edureka.co/blog/wp-content/uploads/2018/12/da1-1.png)
 
 <h1 align="center">Hi 👋, I'm Girish M A</h1>
 <h3 align="center">AWS Cloud and DevOps Engineer from India</h3>
