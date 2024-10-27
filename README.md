@@ -26,8 +26,6 @@ Python ( Numpy, Numpy, Matplotlib, Seaborn ),Advanced Excel,Power BI, Tableau.</
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girish1902&show_icons=true&locale=en&layout=compact" alt="girish1902" /></p>
+<p><img align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=girish1902&show_icons=true&locale=en&layout=compact" alt="girish1902" /> </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=girish1902&show_icons=true&locale=en" alt="girish1902" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=girish1902&" alt="girish1902" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=girish1902&show_icons=true&locale=en" alt="girish1902" /> </p>
